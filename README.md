@@ -73,7 +73,18 @@ GAN-Based-Fish-Segmentation/
 
 # Dataset
 
-The model is trained using underwater fish images and corresponding segmentation masks.
+The model was trained on a custom primary underwater fish dataset collected and prepared manually for better segmentation tasks.
+
+## The dataset consists of:
+
+* Underwater fish images
+* Corresponding segmentation masks
+* Frame-mask pair annotations for supervised learning
+
+## Dataset Preparation
+* Images were collected from underwater video frames
+* Fish masks were manually prepared for segmentation
+* Dataset organized for GAN-based trainingasks.
 
 ## Dataset Format
 
