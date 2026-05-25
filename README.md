@@ -203,7 +203,7 @@ The inference pipeline:
 
 # Results
 
-The GAN model successfully learns fish segmentation patterns from underwater images and generates segmented outputs for surveillance applications.
+The GAN model successfully learns fish segmentation patterns from underwater images and generates segmented outputs for surveillance applications.(Work in Progress)
 
 ---
 
